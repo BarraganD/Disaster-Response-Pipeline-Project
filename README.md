@@ -14,22 +14,23 @@ The motivation for this project is to become an excellent professional as a data
 
 **Data**
 This Folder contains:
-disaster_messages.csv - real messages sent during disaster events
-disaster_categories.csv - categories of the messages
-process_data.py  
-ETL Pipeline Preparation.ipynb - Jupyter Notebook for prepare ETL pipeline
-ML Pipeline Preparation.ipynb - Jupyter Notebook for prepare ML pipeline
-DisasterResponse.db - cleaned data in SQlite
+
+- disaster_messages.csv - real messages sent during disaster events
+- disaster_categories.csv - categories of the messages
+- process_data.py  
+- ETL Pipeline Preparation.ipynb - Jupyter Notebook for prepare ETL pipeline
+- ML Pipeline Preparation.ipynb - Jupyter Notebook for prepare ML pipeline
+- DisasterResponse.db - cleaned data in SQlite
 
 **Models**
 This Folder contains:
-train_classifier.py - ML pipeline used to load cleaned data, train model and save trained model as pickle (.pkl) file for later use
-classifier.pkl - pickle file contains trained model
+- train_classifier.py - ML pipeline used to load cleaned data, train model and save trained model as pickle (.pkl) file for later use
+- classifier.pkl - pickle file contains trained model
 
 **APP**
 This Folder contains:
-run.py - python script to play web application.
-Folder: templates - web dependency files (go.html & master.html) required to run the web application.
+- run.py - python script to play web application.
+- Folder: templates - web dependency files (go.html & master.html) required to run the web application.
 
 # Instructions
 
