@@ -2,11 +2,11 @@
 DataScientist
 Proyect 2 Disaster-Response-Pipeline-Project
 
-**Installation**
+#Installation
 
 The languages, programs that were used to carry out this project were: HTML y Python, Some of the python libraries are: pandas, numpy, re, pickle, nltk, json, plotly, sklearn, sqlalchemy, sys. However, the details of all the libraries and packages are found in the folders.
 
-**Project Motivation**
+# Project Motivation
 
 The motivation for this project is to become an excellent professional as a data scientist and more by putting knowledge into practice on real-life cases, where knowledge and recognition are available for any solution to humanity's problems.
 
