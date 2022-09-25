@@ -31,7 +31,7 @@ This Folder contains:
 run.py - python script to play web application.
 Folder: templates - web dependency files (go.html & master.html) required to run the web application.
 
-#Instructions
+# Instructions
 
 1.Run the following commands in the project's root directory to set up your database and model.
 
