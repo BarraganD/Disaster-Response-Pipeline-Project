@@ -12,7 +12,7 @@ The motivation for this project is to become an excellent professional as a data
 
 # File Description
 
-**Data**
+**DATA**
 This Folder contains:
 
 - disaster_messages.csv - real messages sent during disaster events
@@ -22,7 +22,7 @@ This Folder contains:
 - ML Pipeline Preparation.ipynb - Jupyter Notebook for prepare ML pipeline
 - DisasterResponse.db - cleaned data in SQlite
 
-**Models**
+**MODELS**
 This Folder contains:
 - train_classifier.py - ML pipeline used to load cleaned data, train model and save trained model as pickle (.pkl) file for later use
 - classifier.pkl - pickle file contains trained model
@@ -36,10 +36,10 @@ This Folder contains:
 
 1.Run the following commands in the project's root directory to set up your database and model.
 
-- To run ETL pipeline that cleans data and stores in database : python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db
-- To run ML pipeline that trains classifier and saves : python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl
+- To run ETL pipeline that cleans data and stores in database : python DATA/process_data.py DATA/disaster_messages.csv DATA/disaster_categories.csv data/DisasterResponse.db
+- To run ML pipeline that trains classifier and saves : python MODELS/train_classifier.py DATA/DisasterResponse.db MODELS/classifier.pkl
 
-2.Run the following command in the app directory to run your web app : python run.py
+2.Run the following command in the APP directory to run your web app : python run.py
 
 # Results
 Below are the results Disaster Response Project
