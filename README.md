@@ -30,7 +30,7 @@ This Folder contains:
 **APP**
 This Folder contains:
 - run.py - python script to play web application.
-- go.html and . to run the web application.
+- go.html and master.html . to run the web application.
 
 # Instructions
 
